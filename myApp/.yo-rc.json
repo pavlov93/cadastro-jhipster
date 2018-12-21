@@ -1,0 +1,38 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "cadastro.myapp",
+      "nativeLanguage": "pt-br"
+    },
+    "jhipsterVersion": "5.7.1",
+    "applicationType": "monolith",
+    "baseName": "Registrodecadastro",
+    "packageName": "cadastro.myapp",
+    "packageFolder": "cadastro/myapp",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "mssql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "MzYxNmM5MmZjZjE2Mzk5MDA3ZmVmMDE3YTFkNDhmNWQ4Y2ExNDI0YmEzNDQ3MWRhNDUzODFmY2UzNzMzNjA1MWFhMzYyYzdmMDc0MzkyOWQ3ZWIxMmM0ZjkxYTg3MGFkNDFjYzk2Zjk5Y2Q0YjY1MGM2M2E0Y2Y0Mzc0N2M5ZDc=",
+    "clientFramework": "angularX",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "pt-br",
+    "languages": [
+      "pt-br"
+    ]
+  }
+}
